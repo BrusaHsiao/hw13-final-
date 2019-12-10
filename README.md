@@ -9,6 +9,8 @@ This project mainly demonstrates my newly learned P5js knowledge about "map" mea
 People can interact with this project by clicking the right and left arrow to control the shooter while using mouse to control the color of the background. In addition, a simple "pop" sound will be played after one loop is completeted. 
 
 I also went through several testing to figure out how I want to present the shooter function.
+https://editor.p5js.org/BruceHsiao/present/_cWqQy_cP
+https://editor.p5js.org/BruceHsiao/present/tPseM07Z7
 
 ## Component Parts
 
